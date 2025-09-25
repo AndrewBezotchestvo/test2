@@ -1,0 +1,8 @@
+C:\Users\Студент\Documents\GitHub\test2\test\test\bin\Debug\test.exe.config
+C:\Users\Студент\Documents\GitHub\test2\test\test\bin\Debug\test.exe
+C:\Users\Студент\Documents\GitHub\test2\test\test\bin\Debug\test.pdb
+C:\Users\Студент\Documents\GitHub\test2\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\Студент\Documents\GitHub\test2\test\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Documents\GitHub\test2\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Documents\GitHub\test2\test\test\obj\Debug\test.exe
+C:\Users\Студент\Documents\GitHub\test2\test\test\obj\Debug\test.pdb
