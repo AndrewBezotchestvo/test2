@@ -26,7 +26,7 @@ python-works/
 - **Пример кода:**
   ```python
   name = input("Как вас звать? ")
-  print(f"Привет, {name}! Добро пожаловать в Python!")
+  print(f"Привет, {name}! Добро пожаловать в Python!")```
 Скриншот:
 https://screenshots/basics.png
 
@@ -40,8 +40,8 @@ def calculate(a, b, operation):
         return a + b
     elif operation == '-':
         return a - b
-    # ... и т.д.
-    
+    # ... и т.д.```
+   
 Скриншот работы:
 [https://screenshots/functions.png](https://cdn.deepseek.com/images/deepseek-chat-open-graph-image.jpeg)
 
