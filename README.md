@@ -1,4 +1,4 @@
-# Python Learning Journey 🐍
+<img width="2082" height="1118" alt="image" src="https://github.com/user-attachments/assets/4c0172db-ba7b-432c-b32d-ee7fc7f861a8" /># Python Learning Journey 🐍
 
 Этот репозиторий содержит мои работы, проекты и задания, выполненные в ходе изучения Python.
 
@@ -34,7 +34,7 @@ https://screenshots/basics.png
 Описание: Научился создавать функции для структурирования кода.
 
 Пример: Калькулятор
-
+```python
 def calculate(a, b, operation):
     if operation == '+':
         return a + b
@@ -43,7 +43,7 @@ def calculate(a, b, operation):
     # ... и т.д.
     
 Скриншот работы:
-https://screenshots/functions.png
+[https://screenshots/functions.png](https://cdn.deepseek.com/images/deepseek-chat-open-graph-image.jpeg)
 
 Урок 8: ООП - Простая игра
 Описание: Создал простую текстовую игру, используя классы и объекты.
@@ -65,7 +65,7 @@ https://screenshots/oop_game.png
 Построение простых графиков
 
 Скриншот интерфейса:
-https://screenshots/text_analyzer.png
+[https://screenshots/text_analyzer.png](https://cdn.deepseek.com/images/deepseek-chat-open-graph-image.jpeg)
 
 🛠 Технологии и инструменты
 Язык: Python 3.x
